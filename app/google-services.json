@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806110045582",
+    "project_id": "phonebook-a5844",
+    "storage_bucket": "phonebook-a5844.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806110045582:android:5289d6e18d86c3e10bf0df",
+        "android_client_info": {
+          "package_name": "com.mantushnikita.phonebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdO1kE23pLSc97_qzN2IWNhdsZFyk7jww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
